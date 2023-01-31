@@ -14,8 +14,11 @@ En mi experiencia laboral he tenido que recorrer mucho buscando información, si
 
 Me di cuenta que hay poca información de calidad para gente que inicia. Claramente si uno busca encuentra, pero no vi nada que realmente llamara mi atención.
 
-La programación puede ser un hobbie, pero mi meta es lograr que alguien pueda cambiar su futuro entrando en esta industria, o al menos salir o ampliar su zona de confort.
+La programación puede ser un hobbie, pero mi meta es lograr que alguien pueda cambiar su futuro entrando en esta industria, o al menos salir o ampliar su zona de confort. Programar es darle instrucciones a un computador y para eso se inventó una forma de escribir esas instrucciones (código fuente), pasarlas por un proceso (compilador o intérprete) y dárselas al computador en un lenguaje que este entienda (lenguaje máquina).
 
-Hoy en día hay mucho interés en enseñar programación a niños y un adulto puede usar esas herramientas para empezar como por ejemplo 
+Hoy en día hay mucho interés en enseñar programación a niños y un adulto puede usar esas herramientas para empezar como por ejemplo [Scratch](https://scratch.mit.edu/), donde podrás aprender la idea base de la programación, para luego empezar a desarrollar pensamiento análitico, algoritmos, algebra buleana, teoría de conjuntos, etc.
 
-[Scratch](https://scratch.mit.edu/)
+
+
+
+
