@@ -18,4 +18,4 @@ La programación puede ser un hobbie, pero mi meta es lograr que alguien pueda c
 
 Hoy en día hay mucho interés en enseñar programación a niños y un adulto puede usar esas herramientas para empezar como por ejemplo 
 
-[Scratch]({% https://scratch.mit.edu/ %})
+[Scratch](https://scratch.mit.edu/)
