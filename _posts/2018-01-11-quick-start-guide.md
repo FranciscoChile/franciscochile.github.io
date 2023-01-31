@@ -17,11 +17,5 @@ Me di cuenta que hay poca información de calidad para gente que inicia. Clarame
 La programación puede ser un hobbie, pero mi meta es lograr que alguien pueda cambiar su futuro entrando en esta industria, o al menos salir o ampliar su zona de confort.
 
 Hoy en día hay mucho interés en enseñar programación a niños y un adulto puede usar esas herramientas para empezar como por ejemplo 
-```html
-    <a target="_blank" href="https://scratch.mit.edu/" >
-        Scratch
-    </a>
 
-```
-
-
+[Scratch]({% https://scratch.mit.edu/ %})
