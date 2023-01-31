@@ -1,27 +1,27 @@
 ---
 layout: post
-title:  "Let's test spoilers"
-author: sal
-categories: [ Jekyll, tutorial ]
-image: assets/images/12.jpg
+title:  "Primeros pasos"
+author: Fran
+categories: [ programacion, tutorial ]
+image: assets/images/bebe.jpg
 featured: true
-hidden: true
 ---
 
-Director Roland Suso Richter's enigmatic psychological thriller (direct to video/DVD) was based upon screenwriter Michael Cooney's own play "Point of Death" - a title that gave away the film's entire plot twist premise.
+> Foto de <a href="https://unsplash.com/@ilumire?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Jelleke Vanooteghem</a> en <a href="https://unsplash.com/es/fotos/bNUGJD3gO94?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
 
-As in many similar films, such as Jacob's Ladder (1990), Soul Survivors (2001), and The Butterfly Effect (2004), events and people were thoroughly distorted and confused because the protagonist was at the point of death. The tagline was misleading:
+En mi experiencia laboral he tenido que recorrer mucho buscando información, sitios web, tutoriales, cursos, videos, etc. Se me ocurrio en algun momento la idea de compartir conocimiento sobre desarrollo de software para principiantes, esto porque la mayoría de los sitios más populares estan diseñados para gente que ya tiene un cierto nivel en computación.
 
-"When You Don't Have a Memory, How Can You Remember Who to Trust?"
+Me di cuenta que hay poca información de calidad para gente que inicia. Claramente si uno busca encuentra, pero no vi nada que realmente llamara mi atención.
 
-The mind-warping film opened with a hospital patient Simon Cable (Ryan Phillippe) awakening in a <span class="spoiler"> hospital with little knowledge (amnesia perhaps?) of what had happened, and why he was there, etc. He was told by attending Dr. Jeremy Newman (Stephen Rea) that it was July 29, 2002 (Simon thought it was the year 2000 - he was confused - he heard a doctor say 20:00 hours!) and that he had died for two minutes from cardiac arrest following the near-fatal accident -- but he had been revived ("You're as good as new").</span> Dr. Newman: "Simon, this is the 29th of July. The year is 2002. And your wife, whose name is Anna, is waiting outside." 
+La programación puede ser un hobbie, pero mi meta es lograr que alguien pueda cambiar su futuro entrando en esta industria, o al menos salir o ampliar su zona de confort.
 
-(The doctor left off four crucial additional words, revealed in the film's ending.) (Spoiler: Simon had died and was not resuscitated!).
-
-A major clue to everything that truly happened was the scene that played next under the credits - hospital staff failed to bring a patient back to life with a defibrillator after a car accident. Chest compressions failed and there was no pulse. A second major clue was provided by hospital orderly Travis (Stephen Graham): <span class="spoiler">Everybody dies. No mystery there. But why and how everyone dies. Now, there's a mystery worth solving. Probably the biggest mystery there is.</span>
-
-#### So how do we do spoilers?
-
+Hoy en día hay mucho interés en enseñar programación a niños y un adulto puede usar esas herramientas para empezar como por ejemplo 
 ```html
-<span class="spoiler">My hidden paragraph here.</span>
+    <a target="_blank" href="https://scratch.mit.edu/" >
+        Scratch
+    </a>
+
 ```
+
+
