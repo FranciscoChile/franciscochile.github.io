@@ -3,7 +3,7 @@ layout: post
 title:  "Curso Programación desde Cero"
 author: Fran
 categories: [ programacion, tutorial ]
-image: assets/images/11.jpg
+image: assets/images/coding.jpg
 featured: true
 ---
 
