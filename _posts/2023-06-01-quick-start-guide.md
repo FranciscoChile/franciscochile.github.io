@@ -4,7 +4,7 @@ title:  "Primeros pasos"
 author: Fran
 categories: [ programacion, tutorial ]
 image: assets/images/bebe.jpg
-featured: true
+featured: false
 ---
 
 > Foto de <a href="https://unsplash.com/@ilumire?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Jelleke Vanooteghem</a> en <a href="https://unsplash.com/es/fotos/bNUGJD3gO94?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
